@@ -12,6 +12,7 @@ django-crispy-forms = "*"
 django-allauth = "*"
 sendgrid = "*"
 sendgrid-django = "*"
+pillow = "*"
 
 [requires]
 python_version = "3.7"
