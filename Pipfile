@@ -10,6 +10,8 @@ django = "*"
 psycopg2-binary = "*"
 django-crispy-forms = "*"
 django-allauth = "*"
+sendgrid = "*"
+sendgrid-django = "*"
 
 [requires]
 python_version = "3.7"
